@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Cactus Theme</title>
+    <link>https://luckystar0624.github.io/</link>
+    <description>Recent content on Hugo Cactus Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2023 21:52:13 +0800</lastBuildDate><atom:link href="https://luckystar0624.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstBlog</title>
+      <link>https://luckystar0624.github.io/post/firstblog/</link>
+      <pubDate>Wed, 25 Jan 2023 21:52:13 +0800</pubDate>
+      
+      <guid>https://luckystar0624.github.io/post/firstblog/</guid>
+      <description>hello world</description>
+    </item>
+    
+  </channel>
+</rss>
